@@ -1,5 +1,5 @@
--- Project Cancellation with Transaction
--- =====================================
+-- Project Cancellation
+-- ====================
 
 -- This script performs a cascading deletion of a specific project and 
 -- all its associated session and team records. It uses a transaction 
