@@ -70,4 +70,4 @@ The database includes comprehensive SQL scripts covering various CRUD operations
 ---------
 
 - [Victor Marinov](https://github.com/vicmarinov)
-- [Denis Demir](https://www.instagram.com/dns_29.10)
+- [Denis Demir](https://github.com/denisdemir)
